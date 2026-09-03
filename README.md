@@ -42,7 +42,7 @@ I'm a gap-year student in Germany, working full-stack as a solo builder — ship
 
 ---
 
-### 🧩 Featured Projects
+### 🧩 Featured
 
 | Project | Description | Stack |
 |---|---|---|
