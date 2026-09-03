@@ -2,7 +2,7 @@
 
 # Hi, I'm Constantin 👋
 
-**Solo developer & entrepreneur** — building AI-augmented products end to end, from idea to deployed app.
+building AI-augmented products end to end, from idea to deployed app.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-netzer.cloud-black?style=flat-square&logo=vercel)](https://netzer.cloud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](#)
@@ -13,9 +13,9 @@
 
 ### 🚀 About me
 
-I'm a gap-year student in Germany, working full-stack as a solo builder — shipping products across web, mobile, and backend rather than specializing in one layer. My interests sit at the intersection of **software, AI, and business**: I don't just build the app, I think about acquisition, monetization, and whether the idea actually has a market.
+I'm a gap-year student in Germany, working full-stack as a solo builder — shipping products across web, mobile, and backend rather than specializing in one layer. My interests sit at the intersection of **software, AI, and business**.
 
-- 🔭 Currently building **rezept-app** — an AI-powered recipe extraction app (Whisper + GPT-4o) that turns cooking videos into structured recipes
+- 🔭 What I built **rezept-app** — an AI-powered recipe extraction app (Whisper + GPT-4o) that turns cooking videos into structured recipes
 - 🧠 Exploring **AI-augmented business models** — from bookkeeping automation to niche D2C apps
 - 🏗️ Self-hosting my own infrastructure (Supabase on a VPS) and experimenting with AI agent tooling
 - 💼 Working at Daimler Truck AG while exploring finance, corporate development, and startup roles on the side
