@@ -16,8 +16,8 @@ building AI-augmented products end to end, from idea to deployed app.
 I'm a gap-year student in Germany, working full-stack as a solo builder — shipping products across web, mobile, and backend rather than specializing in one layer. My interests sit at the intersection of **software, AI, and business**.
 
 - 🔭 What I built recently:
-- **remi**: an AI-powered recipe extraction app (Whisper + GPT-4o) that turns cooking videos into structured recipes
-- **venevio**: All-In-One Solution for restaurants with reservation system, online gift cards, web design, etc.
+  **remi**: an AI-powered recipe extraction app (Whisper + GPT-4o) that turns cooking videos into structured recipes
+  **venevio**: All-In-One Solution for restaurants with reservation system, online gift cards, web design, etc.
 - 🧠 Exploring **AI-augmented business models** — from bookkeeping automation to niche D2C apps
 - 🏗️ Self-hosting my own infrastructure (Supabase on a VPS) and experimenting with AI agent tooling
 - 💼 Working at Daimler Truck AG while exploring finance, corporate development, and startup roles on the side
