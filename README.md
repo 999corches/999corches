@@ -5,7 +5,7 @@
 building AI-augmented products end to end, from idea to deployed app.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-netzer.cloud-black?style=flat-square&logo=vercel)](https://netzer.cloud)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/constantin-netzer/)
 
 </div>
 
