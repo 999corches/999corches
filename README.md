@@ -13,7 +13,7 @@ building AI-augmented products end to end, from idea to deployed app.
 
 ### 🚀 About me
 
-I'm a gap-year student in Germany, working full-stack as a solo builder — shipping products across web, mobile, and backend rather than specializing in one layer. My interests sit at the intersection of **software, AI, and business**.
+I'm a gap-year student in Germany, working full-stack as a solo builder shipping products across web, mobile, and backend rather than specializing in one layer. My interests sit at the intersection of **software, AI, and business**.
 
 - 🔭 What I built recently:
   **remi**: an AI-powered recipe extraction app (Whisper + GPT-4o) that turns cooking videos into structured recipes
