@@ -1,74 +1,37 @@
-<div align="center">
+## Constantin Netzer
 
-# Hi, I'm Constantin 👋
+I build small products end to end: web, mobile, backend, and the deploy in between.
+Currently learning **AI & automation** as an intern at **Syntax Systems Deutschland**.
 
-building AI-augmented products end to end, from idea to deployed app.
+[netzer.cloud](https://netzer.cloud) · [LinkedIn](https://www.linkedin.com/in/constantin-netzer/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-netzer.cloud-black?style=flat-square&logo=vercel)](https://netzer.cloud)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/constantin-netzer/)
+### Now
 
-</div>
+- Intern at Syntax Systems Deutschland, working on AI and automation
+- Gap year in Germany, building side projects in the evenings
+- Running my own Supabase instance on a VPS and trying out agent tooling
+- Interested in where software, AI and business overlap
 
----
+### Projects
 
-### 🚀 About me
+**[remi](https://github.com/999corches/rezept-app)**
+Paste a cooking video, get a clean recipe. Whisper for transcription, GPT-4o for extraction.
+React Native (Expo) app with a FastAPI [backend](https://github.com/999corches/rezept-backend) on Railway and Supabase for storage.
 
-I'm a gap-year student in Germany, working full-stack as a solo builder shipping products across web, mobile, and backend rather than specializing in one layer. My interests sit at the intersection of **software, AI, and business**.
+**venevio**
+All-in-one toolkit for restaurants: reservations, online gift cards, websites.
 
-- 🔭 What I built recently:
-  **remi**: an AI-powered recipe extraction app (Whisper + GPT-4o) that turns cooking videos into structured recipes
-  **venevio**: All-In-One Solution for restaurants with reservation system, online gift cards, web design, etc.
-- 🧠 Exploring **AI-augmented business models** — from bookkeeping automation to niche D2C apps
-- 🏗️ Self-hosting my own infrastructure (Supabase on a VPS) and experimenting with AI agent tooling
-- 💼 Working at Daimler Truck AG while exploring finance, corporate development, and startup roles on the side
-- 🌱 Previously: freelance web dev & video editing, e-commerce store operator, built a B2B SaaS (restaurant reservations) from scratch
+**[netzer.cloud](https://netzer.cloud)**
+My portfolio. Next.js on Vercel.
 
----
+### Stack
 
-### 🛠️ Tech Stack
+TypeScript, React, React Native, Next.js, Python, FastAPI, Supabase, Vercel
 
-<div align="center">
+### Before this
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+Daimler Truck AG, freelance web dev and video editing, ran an e-commerce store, built a B2B reservation SaaS from scratch.
 
-</div>
+### Say hi
 
----
-
-### 🧩 Featured
-
-| Project | Description | Stack |
-|---|---|---|
-| **[remi-frontend](https://github.com/999corches/rezept-app)** | Extracts structured recipes from cooking videos using Whisper + GPT-4o | React Native (Expo), FastAPI, Supabase |
-| **[remi-backend](https://github.com/999corches/rezept-backend)** | Backend API powering rezept-app: transcription, extraction, storage | FastAPI, Railway |
-| **[netzer.cloud](https://netzer.cloud)** | Personal portfolio & project hub | Next.js, Vercel |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=999corches&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=999corches&layout=compact&hide_border=true)
-
-</div>
-
----
-
-### 📫 Get in touch
-
-Open to conversations about AI product ideas, startup roles, or corporate development / finance careers.
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-netzer.cloud-blue?style=flat-square)](https://netzer.cloud)
-
-</div>
+Happy to talk about AI product ideas, automation, or startup roles. Reach me via [LinkedIn](https://www.linkedin.com/in/constantin-netzer/).
