@@ -3,13 +3,14 @@
 I build small products end to end: web, mobile, backend, and the deploy in between.
 Currently learning **AI & automation** as an intern at **Syntax Systems Deutschland**.
 
-[netzer.cloud](https://netzer.cloud) · [LinkedIn](https://www.linkedin.com/in/constantin-netzer/)
+[![Portfolio](https://img.shields.io/badge/netzer.cloud-000?style=flat-square&logo=vercel&logoColor=white)](https://netzer.cloud)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constantin-netzer/)
 
 ### Now
 
 - Intern at Syntax Systems Deutschland, working on AI and automation
 - Gap year in Germany, building side projects in the evenings
-- Running my own Supabase instance on a VPS and trying out agent tooling
+- Trying out agent tooling and automation workflows
 - Interested in where software, AI and business overlap
 
 ### Projects
@@ -26,7 +27,7 @@ My portfolio. Next.js on Vercel.
 
 ### Stack
 
-TypeScript, React, React Native, Next.js, Python, FastAPI, Supabase, Vercel
+[![Stack](https://skillicons.dev/icons?i=ts,react,nextjs,python,fastapi,supabase,vercel)](https://skillicons.dev)
 
 ### Before this
 
